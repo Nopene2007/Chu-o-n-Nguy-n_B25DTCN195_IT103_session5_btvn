@@ -1,0 +1,32 @@
+.description{
+     width: 400px;
+     margin: 40px auto;
+}
+h2{
+    color: #1e90ff;
+    text-align: center;
+}
+.b5 {
+   
+    border: 1px solid #1e90ff;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+textarea.b5 {
+    resize: vertical;
+}
+label{
+    display: block;
+}
+.button {
+    text-align: center;
+    margin-top: 20px;
+}
+input[type="submit"] {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}

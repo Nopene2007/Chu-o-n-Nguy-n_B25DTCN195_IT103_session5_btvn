@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    background-color:darkcyan;
+    color:aliceblue;
+    text-align: center;
+}
+h2{
+    color:cornflowerblue;
+}
+.no {
+    color:gray;
+}
+.no i{
+    color:blue;
+}
+.service{
+    text-decoration: none;
+}
+.service:hover{
+    color:aqua;
+}
+.luuy{
+    color: red;
+}
+.oh{
+    color:blue;
+}
+.footer{
+    background-color: darkcyan;
+    color:aliceblue;
+}
